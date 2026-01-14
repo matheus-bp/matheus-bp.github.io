@@ -4,12 +4,13 @@
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 380rem;
   padding-left:  1.5rem;
   padding-right: 1.5rem;
-  margin-left:  10rem;
-  margin-right: 10rem;
+  margin-left:  auto;
+  margin-right: auto;
 }
+
 
 .ftr-links a {
   color: $post-title-color;
