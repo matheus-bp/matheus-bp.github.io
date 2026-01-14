@@ -1,6 +1,10 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
+
+@def prepath = ""
+@def siteurl = "https://matheus-bp.github.io"
+
 +++
 author = "Septimia Zenobia"
 mintoclevel = 2
