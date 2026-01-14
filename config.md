@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Franklin Template"
 website_descr = "Example website using Franklin"
-website_url   = "https://matheus-bp.github.io/"
+website_url   = "https://matheus-bp.github.io/matheus-bp.github.io"
 +++
 
 <!--
