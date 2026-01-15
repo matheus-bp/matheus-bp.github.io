@@ -779,12 +779,14 @@ a[href^="#fnref:"] {
 }
 
 .nav-main li.logo a {
-    color: #fff;
-    background: #0A3b76;
+    color: #0A3b76;
+    /* background: #0A3b76; */
+    background: #0A3b76 url('/figures/signature.svg') no-repeat center center;
+    background-size: 80%;
     font-weight: bold;
-    width: 1.6em;
+    width: 3.6em;
     height: 1.6em;
-    border-radius: 50px;
+    border-radius: 10px;
     line-height: 1.6em;
     margin: 0 1rem;
     padding: 0;
