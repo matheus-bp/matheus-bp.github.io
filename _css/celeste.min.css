@@ -332,7 +332,7 @@
 .hvr-ripple-out:before {
     content: "";
     position: absolute;
-    border: #0A3b76 solid 4px;
+    border: #0046F9  solid 4px;
     border-radius: 50px;
     top: 0;
     right: 0;
@@ -553,7 +553,7 @@ html {
 body {
     color: #515151;
     background-color: #fff;
-    border-top: 5px solid #0A3b76;
+    border-top: 5px solid #0046F9 ;
 }
 
 a {
@@ -622,7 +622,7 @@ tbody tr:nth-child(odd) th {
 
 /* Footer links */
 .ftr-links a {
-    color: #0A3b76;
+    color: #0046F9 ;
     padding: 0 0.3rem;
 }
 
@@ -779,9 +779,9 @@ a[href^="#fnref:"] {
 }
 
 .nav-main li.logo a {
-    color: #0A3b76;
+    color: #0046F9 ;
     /* background: #0A3b76; */
-    background: #0A3b76 url('/figures/signature.svg') no-repeat center center;
+    background: #0046F9 url('/figures/signature.svg') no-repeat center center;
     background-size: 80%;
     font-weight: bold;
     width: 3.6em;
@@ -903,7 +903,7 @@ pre code {
 
 /* Landing page title */
 .landing-title {
-    color: #0A3b76;
+    color: #0046F9 ;
     text-align: center;
     border-bottom: 1px solid #c0c0c0;
     padding-bottom: 0.7rem;
@@ -918,7 +918,7 @@ pre code {
 .page-title,
 .post-title,
 .post-title a {
-    color: #0A3b76;
+    color: #0046F9;
 }
 
 .page-title,
