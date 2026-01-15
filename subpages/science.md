@@ -8,4 +8,4 @@ tags = ["syntax", "code"]
 +++
 
 ![][construction sign joke]
-[construction sign joke]: /figures/contruction-sign-joke.png
+[construction sign joke]: /assets/contruction-sign-joke.png

@@ -1,3 +1,7 @@
 .DS_Store
 node_modules/
 package-lock.json
+/subpages/menu1-original.md
+/subpages/menu2-original.md
+/subpages/menu3-original.md
+/subpages/index-original.md
