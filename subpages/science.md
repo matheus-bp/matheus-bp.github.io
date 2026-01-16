@@ -21,6 +21,8 @@ Here I summarize my scientific achievements throughout my academic life.
 
 ## Participation in scientific collaborations
 
+## Outreach
+
 
 ![][construction sign joke]
 [construction sign joke]: /assets/contruction-sign-joke.png
