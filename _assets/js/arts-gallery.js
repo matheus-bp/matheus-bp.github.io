@@ -2,6 +2,9 @@ const images = [
     "V509-Cas.png",
     "trapcluster-d203506.png",
     "RSG-Bdw.png",
+    "A-supergiant.png",
+    "WR-realistic.png"
+
 ];
 
 let current = 0;
