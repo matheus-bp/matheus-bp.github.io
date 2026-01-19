@@ -32,15 +32,29 @@
 </header>
 
 
+<script src="/assets/js/arts-gallery.js"></script>
+
 <!-- Content appended here -->
 <div class="franklin-content">
 <p>Welcome to my artsy space&#33; Here you will find my gallery of digital ilustrations related to astronomy and other sciences.</p>
 <p>Most of the images are originally vector graphics &#40;svg format&#41;, but here I post them as normal images &#40;png bitmap&#41;.</p>
 <p>They are free to use - just give the due credit, please. In case you want or need the images in svg format, feel free to contact me and I will send them right away :&#41;</p>
 <p>Hope you enjoy&#33;</p>
+<h1 id="image_gallery"><a href="#image_gallery" class="header-anchor">Image Gallery</a></h1>
+
+<div class="gallery">
+  <button onclick="prevImage()">◀</button>
+
+  <img id="gallery-image"
+       src="/assets/arts-gallery/RSG-Bdw.png"
+       alt="Gallery image">
+
+  <button onclick="nextImage()">▶</button>
+</div>
+
 <p><img src="/assets/contruction-sign-joke.png" alt="construction sign joke"> </p>
 <div class="page-foot">
-    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Matheus Bernini Peron. Last modified: January 16, 2026.
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Matheus Bernini Peron. Last modified: January 19, 2026.
     Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
 </div>
 </div><!-- CONTENT ENDS HERE -->

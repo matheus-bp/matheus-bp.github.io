@@ -16,6 +16,19 @@ They are free to use - just give the due credit, please. In case you want or nee
 
 Hope you enjoy!
 
+# Image Gallery
+
+~~~
+<div class="gallery">
+  <button onclick="prevImage()">◀</button>
+
+  <img id="gallery-image"
+       src="/assets/arts-gallery/RSG-Bdw.png"
+       alt="Gallery image">
+
+  <button onclick="nextImage()">▶</button>
+</div>
+~~~
 
 ![][construction sign joke]
 [construction sign joke]: /assets/contruction-sign-joke.png
