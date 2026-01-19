@@ -1,13 +1,13 @@
 const images = [
-"RSG-Bdw.png",
-"trapcluster-d203506.png",
-"V509-Cas.png"
+    "V509-Cas.png",
+    "trapcluster-d203506.png",
+    "RSG-Bdw.png",
 ];
 
 let current = 0;
 
 function showImage() {
-  document.getElementById("gallery-image").src = images[current];
+  document.getElementById("gallery-image").src = "/assets/arts-gallery/"+images[current];
 }
 
 function nextImage() {
